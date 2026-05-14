@@ -6,15 +6,6 @@ This repository is built as a clean reference for readers, developers, researche
 
 Last updated: May 14, 2026
 
-## What This Repository Includes
-
-- A newest-first table of major Gemini and Google AI releases
-- A chronological Google AI timeline
-- A Gemini model release table
-- Machine-readable CSV and JSON data
-- Contribution guidelines for corrections and updates
-- A companion article link for the full web version
-
 ## Quick Release Table: Newest First
 
 | Model or Product | Release Date | Key Highlight |
@@ -86,55 +77,6 @@ Last updated: May 14, 2026
 | May 7, 2026 | Gemini 3.1 Flash-Lite became generally available for enterprise production workloads. |
 | May 12, 2026 | Google introduced Gemini Intelligence for Android and Googlebook. |
 
-## Data Files
-
-This repository includes machine-readable versions of the timeline:
-
-- [`data/google-ai-timeline.csv`](data/google-ai-timeline.csv)
-- [`data/google-ai-timeline.json`](data/google-ai-timeline.json)
-- [`data/gemini-model-releases.csv`](data/gemini-model-releases.csv)
-
-Use the CSV file for spreadsheets, Airtable, Notion, and simple data imports. Use the JSON file for scripts, websites, and documentation generators.
-
-## How To Use This Repository
-
-You can use this repository to:
-
-- Check Gemini and Google AI release dates
-- Reference Google AI history in articles, docs, and presentations
-- Build charts, timelines, or data visualizations
-- Compare Gemini, Veo, Imagen, Gemma, and DeepMind milestones
-- Track future updates through issues and pull requests
-
-## Suggested Repository Topics
-
-Use these GitHub topics to help readers find the repo:
-
-```text
-google-ai
-gemini
-google-gemini
-deepmind
-veo
-imagen
-gemma
-ai-timeline
-llm
-generative-ai
-```
-
-## Contributing
-
-Corrections and updates are welcome.
-
-When suggesting a change, please include:
-
-- The model, product, or milestone name
-- The exact release date
-- A reliable reference link when available
-- A short note explaining the change
-
-For larger updates, open an issue first so the timeline stays consistent.
 
 ## Source Article
 
