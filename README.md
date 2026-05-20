@@ -2,16 +2,19 @@
 
 A public timeline of major Google AI, Gemini, DeepMind, Veo, Imagen, Gemma, and developer platform milestones.
 
-This repository is built as a clean reference for readers, developers, researchers, writers, and AI builders who need a quick way to track Google's AI release history. 
+This repository is built as a clean reference for readers, developers, researchers, writers, and AI builders who need a quick way to track Google's AI release history. It covers early Google Search machine learning, Google Translate, TensorFlow, AlphaGo, the Transformer, BERT, AlphaFold, Bard, Gemini, Gemma, Imagen, Nano Banana, Veo, NotebookLM, Gemini CLI, Antigravity, Opal, Google AI Studio, Vertex AI, Gemini Enterprise Agent Platform, Gemini Intelligence, AI Search agents, Universal Cart, Google Pics, and intelligent eyewear.
 
-It covers early Google Search machine learning, Google Translate, TensorFlow, AlphaGo, the Transformer, BERT, AlphaFold, Bard, Gemini, Gemma, Imagen, Nano Banana, Veo, NotebookLM, Gemini CLI, Opal, Google AI Studio, Vertex AI, Gemini Enterprise Agent Platform, and Gemini Intelligence.
-
-Last updated: May 14, 2026
+Last updated: May 20, 2026
 
 ## Quick Release Table: Newest First
 
 | Model or Product | Release Date | Key Highlight |
 |---|---:|---|
+| Gemini 3.5 Flash | May 19, 2026 | Google introduced the first Gemini 3.5 model for faster agentic, coding, and long-workflow tasks. |
+| Gemini Omni Flash | May 19, 2026 | Google introduced a multimodal world model for video generation, editing, remixing, and simulation-aware media workflows. |
+| Gemini Spark | May 19, 2026 | Google announced a 24/7 personal AI agent that can plan, draft, track, and coordinate tasks across Google apps and partner services. |
+| Google Antigravity 2.0 | May 19, 2026 | Google introduced a standalone agentic development app with multi-agent teams, scheduled tasks, voice, and Google product integrations. |
+| Universal Cart | May 19, 2026 | Google announced an AI shopping cart for tracking products, deals, compatibility, and rewards across participating stores. |
 | Gemini Intelligence for Android | May 12, 2026 | Google introduced a more proactive Android experience powered by Gemini Intelligence. |
 | Googlebook | May 12, 2026 | Google introduced a laptop category designed around Gemini Intelligence. |
 | Gemini 3.1 Flash-Lite GA | May 7, 2026 | Gemini 3.1 Flash-Lite became generally available on Gemini Enterprise Agent Platform. |
@@ -64,6 +67,12 @@ The main timeline focuses on major model and platform milestones. This section a
 
 | Date | Product or Resource | Why It Matters |
 |---:|---|---|
+| May 19, 2026 | AI information agents in Search | Search gained agents that can monitor ongoing tasks, handle follow-ups, and send updates from the search box. |
+| May 19, 2026 | Ask YouTube | Search began surfacing relevant YouTube video clips that answer specific questions. |
+| May 19, 2026 | Intelligent eyewear | Google previewed Gemini-powered smart glasses, including no-screen audio glasses and later AR glasses work. |
+| May 19, 2026 | SynthID verification expansion | SynthID checks expanded into Search and Chrome to help identify AI-generated images and videos. |
+| May 19, 2026 | Docs Live and Google Pics | Workspace gained voice-to-document drafting and a new AI image creation and editing tool. |
+| May 19, 2026 | Google AI Studio mobile and integrations | Google announced a mobile AI Studio app, Workspace integrations, native Android support, and export to Antigravity. |
 | April 15, 2026 | Gemini on Mac | Gemini became available as a desktop assistant for macOS users. |
 | April 14, 2026 | Skills in Chrome | Chrome added reusable AI prompt workflows for common browser tasks. |
 | April 13, 2026 | Interactive simulations in Gemini | The Gemini app gained support for generating interactive simulations and models. |
@@ -151,13 +160,30 @@ The main timeline focuses on major model and platform milestones. This section a
 | April 22, 2026 | Google launched Gemini Enterprise Agent Platform and made Gemini Embedding 2 generally available. |
 | May 7, 2026 | Gemini 3.1 Flash-Lite became generally available for enterprise production workloads. |
 | May 12, 2026 | Google introduced Gemini Intelligence for Android and Googlebook. |
+| May 19, 2026 | Google I/O 2026 introduced Gemini 3.5 Flash, Gemini Omni Flash, Gemini Spark, Antigravity 2.0, AI Search agents, Universal Cart, intelligent eyewear, Google Pics, and expanded SynthID verification. |
 
+## Suggested Repository Topics
+
+Use these GitHub topics to help readers find the repo:
+
+```text
+google-ai
+gemini
+google-gemini
+deepmind
+veo
+imagen
+gemma
+ai-timeline
+llm
+generative-ai
+```
 
 ## Source Article
 
 This repository is maintained as a companion resource for the full article:
 
-[Google AI Timeline: Gemini 3.1 and Veo 3.1 Lite](https://www.scriptbyai.com/google-ai-timeline-biggest-moments/)
+[Google AI Timeline: Gemini 3.5 Flash and Gemini Omni Flash](https://www.scriptbyai.com/google-ai-timeline-biggest-moments/)
 
 The article includes a readable web version of the timeline, more context on Gemini model generations, and related AI resources.
 
